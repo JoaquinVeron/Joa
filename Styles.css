@@ -1,12 +1,49 @@
+body
+{background-color: #06007b;
+ margin: 0;
+ padding: 0;
+}        
 
-        h1
-        {color: white}
+nav.navbar
+{background-color: rgb(215, 0, 0);
+height: 50px;
+gap: 50px;
+display: flex;
+}
 
-        h2
-        {color: white}
+.menu
+{ 
+    margin-top: 5px;
+    margin-left: 10px;
+    font-size: 30px;
+    font-family: fantasy;
+}
 
-        h3
-        {color: white}
+.avatar
+{   margin-left: auto;
+    margin-right: auto;
+    display: block;
+    width: 500px;
+}
+        
+h1
+{ margin-left: 663px;
+  color: white;
+  font-family: ar;
+}
 
-        h4
-        {color: white}
+.abajo
+{background-color: #004fb5;
+border-radius: 20px;
+margin-left: 20px;
+margin-right: 20px;}
+
+h2
+{margin: 10px;
+color: white}
+
+h3
+{color: white}
+
+h4
+{color: white}
