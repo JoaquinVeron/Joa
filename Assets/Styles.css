@@ -1,0 +1,175 @@
+body
+{ background-color: #06007b;
+ margin: 0;
+ padding: 0;
+}        
+
+nav.navbar
+{background-color: rgb(215, 0, 0);
+height: 50px;
+gap: 15%;
+display: flex;
+justify-content: center;
+}
+
+.menu
+{ 
+    color: #06007b;
+    margin-top: 5px;
+    margin-left: 10px;
+    font-size: 30px;
+    font-family: fantasy;
+}
+
+.portada
+{
+  display: flex;
+  justify-content: center;
+}
+
+.spidey
+{
+    margin: auto;
+    width: 25%;
+}
+
+h1
+{
+  margin: auto;
+  margin-left: 40px;
+  text-align: justify;
+  color: white;
+  font-family:'Courier New', Courier, monospace;
+}
+
+.abajo
+{background-color: #004fb5;
+border-radius: 20px;
+margin-left: 20px;
+margin-right: 20px;
+margin-bottom: 75px;
+}
+
+.texto
+{
+  display: flex;
+}
+
+.joa
+{   margin: auto;
+  margin-left: 20px;
+    border-radius: 10px;
+    height: 350px;
+    width: 350px;
+}
+        
+h2
+{
+  color: white;
+  margin-left: 20px;
+  margin-right: 20px;
+  font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+  text-align: justify;
+}
+
+.musica1
+{
+    margin: 10px;
+    background-color: blueviolet;
+    display: flex;
+}
+
+.badbunny
+{
+  margin-top: 5px;
+  margin-left: 20px;
+}
+
+
+h3
+{
+  font-size: 20px;
+  display: flex;
+  color: white;
+  text-align: justify;
+  margin: auto;
+  margin-top: 45px;
+  margin-left: 20px;
+}
+
+.badbunny1
+{
+  margin-top: 5px;
+  margin-left: auto;
+}
+
+.musica2
+{
+    margin: 10px;
+    background-color:  rgb(130, 0, 0);
+    display: flex;
+}
+
+.adele
+{
+  margin-top: 5px;
+  margin-left: 20px;
+}
+
+.kendricklamar
+{
+  margin-top: 5px;
+  margin-left: 35px;
+}
+
+.musica3
+{
+    margin: 10px;
+    background-color:  rgb(71, 71, 71);
+    display: flex;
+}
+
+.fleetwood
+{
+  margin-top: 5px;
+  margin-left: 20px;
+}
+
+.malandro
+{
+  margin-top: 5px;
+  margin-left: -139px;
+}
+
+.musica4
+{
+  margin: 10px;
+  background-color:  rgb(25, 146, 176);
+  display: flex;
+}
+
+.theturtles
+{
+  margin-top: 5px;
+  margin-left: 20px;
+}
+
+.AM
+{
+  margin-top: 5px;
+  margin-left: -159px;
+}
+
+.redes
+{background-color: #004fb5;
+ display: flex;
+ border-radius: 20px;
+ margin: 20px;
+ padding: 20px;
+justify-content: center;
+}
+
+.final
+{
+  display: flex;
+}
